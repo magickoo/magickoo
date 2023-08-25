@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khushi Agarwal</h1>
 <h3 align="center">A passionate frontend and ML developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F116770475%2FAnimated-illustrations&psig=AOvVaw0Mta3qYI9XJP8nTm8psAWF&ust=1693069119909000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjf1o-k-IADFQAAAAAdAAAAABAN">
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magickoo&label=Profile%20views&color=0e75b6&style=flat" alt="magickoo" /> </p>
 
 - 🌱 I’m currently learning **Google Cloud , Deep Learning**
