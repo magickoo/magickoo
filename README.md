@@ -17,7 +17,7 @@
 
 ## About me:
 
-Hi, I'm Khushi Agarwal (😉Also called as Uttam) !!
+Hi, I'm Khushi Agarwal (😉Also called as kushi) !!
 - 🔭 I'm currently an 3<sup>rd</sup> year undergrad pursuing Bachelor's in Computer Science and Engineering from Vellore Institute of Technology, Chennai, India.
 - 👨‍💻 I find my technical interests in Robotics, AI and Data Analytics.
 - 👍 I also love collaborating over code with new people and enjoy working in teams be it in projects.
