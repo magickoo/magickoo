@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Google Cloud , Deep Learning**
 
-- 📫 How to reach me **khushi.agarwal2021@gmail.com**
+- 📫 How to reach me **khushi.agarwal2021.25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
