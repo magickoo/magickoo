@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend and ML developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magickoo&label=Profile%20views&color=0e75b6&style=flat" alt="magickoo" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magickoo" alt="magickoo" /></a> </p>
 
 - 🌱 I’m currently learning **Google Cloud , Deep Learning**
 
