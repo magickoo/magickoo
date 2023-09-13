@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Google Cloud , Deep Learning**
 
-- - 💬 Talking about **Deep Learning, AI, Computer Vision, Robotics**
+- 💬 Talks about **Deep Learning, AI, Computer Vision, Robotics**
 
 
 <h3 align="left">Connect with me:</h3>
