@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Khushi Agarwal</h1>
-<h3 align="center">A Passionate Frontend and ML developer</h3>
+<h3 align="center">A Passionate React and DL developer</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magickoo&label=Profile%20views&color=0e75b6&style=flat" alt="magickoo" /> </p>
 </a> </p>
 
-- 🌱 I’m currently learning **Google Cloud , Deep Learning**
+- 🌱 I’m currently learning **Google Cloud and Deep Learning**
 
-- 💬 Talks about **Deep Learning, AI, Computer Vision, Robotics**
+- 💬 Talks about **Deep Learning, AI, Computer Vision, Data Analytics**
 
 
 <h3 align="left">Connect with me:</h3>
