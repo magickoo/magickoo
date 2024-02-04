@@ -4,9 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magickoo&label=Profile%20views&color=0e75b6&style=flat" alt="magickoo" /> </p>
 </a> </p>
 
-- 🌱 I’m currently learning **Google Cloud and Deep Learning**
 
-- 💬 Talks about **Deep Learning, AI, Computer Vision, Data Analytics**
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -21,7 +20,7 @@
 
 Hi, I'm Khushi Agarwal  !!
 - 🔭 I'm currently an 3<sup>rd</sup> year undergrad pursuing Bachelor's in Computer Science and Engineering from Vellore Institute of Technology, Chennai, India.
-- 👨‍💻 I find my technical interests in Robotics, AI and Data Analytics.
+- 👨‍💻 I find my interests in deep learning techniques in medical healthcare sector.
 
 
 <h3 align="left">Languages and Tools:</h3>
