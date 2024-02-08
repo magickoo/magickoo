@@ -5,9 +5,6 @@
 </a> </p>
 
 
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/khushi-agarwal-ai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khushi-agarwal-ai/" height="30" width="40" /></a>
@@ -23,6 +20,7 @@ Hi, I'm Khushi Agarwal  !!
 - 👨‍💻 I find my interests in deep learning techniques in medical healthcare sector.
 - I have experience working with Hardware microcontrollers such as Arduino UNO,ESP8266. And I like integrating with variety of sensors to do data analytics.
 - Currently learning Deep Learning (Tensorflow) and UI/UX design.
+- Engaged with Java for Placement Preparation. 
 
 
 <h3 align="left">Languages and Tools:</h3>
