@@ -20,7 +20,7 @@ Hi, I'm Khushi Agarwal  !!
 - 👨‍💻 I find my interests in deep learning techniques in medical healthcare sector.
 - I have experience working with Hardware microcontrollers such as Arduino UNO,ESP8266. And I like integrating with variety of sensors to do data analytics.
 - Currently learning Deep Learning (Tensorflow) and UI/UX design.
-- Engaged with Java for Placement Preparation. 
+- Programming Languages: Java, Python , Javascript
 
 
 <h3 align="left">Languages and Tools:</h3>
