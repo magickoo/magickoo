@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/khushi-agarwal-ai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khushi-agarwal-ai/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/khushiagarwal28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/khushiagarwal28" height="30" width="40" /></a>
+<a href="https://www.behance.net/khushiagarwal64" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fbehance-1&psig=AOvVaw3rA-g_mmzoBOthsbOOJ7XN&ust=1710226352743000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDnmeXP64QDFQAAAAAdAAAAABAE" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/magickhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/magickhu" height="30" width="40" /></a>
 </p>
