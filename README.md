@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Khushi Agarwal</h1>
-<h3 align="center">React Js| UI-UX | Deep Learning</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <h3 align="left">Connect with me:</h3>
