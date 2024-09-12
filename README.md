@@ -13,7 +13,7 @@
 ## About me:
 
 Hi, I'm Khushi Agarwal  !!
-- 🔭 I'm currently an 3<sup>rd</sup> year undergrad pursuing Bachelor's in Computer Science and Engineering from Vellore Institute of Technology, Chennai, India.
+- 🔭 I'm currently a final <sup>rd</sup> year undergrad pursuing Bachelor's in Computer Science and Engineering from Vellore Institute of Technology, Chennai, India.
 - 👨‍💻 I find my interests in deep learning techniques in medical healthcare sector.
 - I have experience working with Hardware microcontrollers such as Arduino UNO,ESP8266. And I like integrating with variety of sensors to do data analytics.
 - Currently learning Deep Learning (Tensorflow, Pytorch) and Django.
